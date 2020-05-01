@@ -3,8 +3,7 @@
 Talk 1 (Spanish)
 - Easy maps with folium. 
 - Speaker: Marcos Recio Pérez
-- Logician (Ph.D. USAL)
-(Repositorio con Binder ejecutable en https://github.com/MarcosRecio/Castilla-y-Le-n-Ofertas-Empleo-Map )
+- Logician (Ph.D. USAL)\n(Repositorio con Binder ejecutable en https://github.com/MarcosRecio/Castilla-y-Le-n-Ofertas-Empleo-Map )
 
 Talk 2 (Spanish)
 - How to deal with adversarial images.
